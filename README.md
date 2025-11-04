@@ -158,6 +158,7 @@ sudo apt install openjdk-11-jdk
 ### 4️⃣ Build takes too long
 
 First build downloads components (5–10 mins still maybe depends upon internet and ur pc).
+
 Later builds: 1–2 mins (maybe?.. cuz if you got a 1990 pc ur cooked af)⚡
 
 ---
@@ -175,9 +176,13 @@ or open with your emulator
 ## 🏁 What You Get
 
 ✅ Fully working Android APK
+
 ✅ Native WebView wrapper
+
 ✅ Back button navigation
+
 ✅ Mobile viewport optimization
+
 ✅ Signed & ready for Play Store
 
 ---
@@ -192,4 +197,4 @@ or open with your emulator
 
 ## 🧾 License
 
-[MIT License](LICENSE) — free to use, modify, and ship.
+[MIT License](LICENSE) — free to use, modify, and ship or whatever you idc.
