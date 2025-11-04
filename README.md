@@ -2,7 +2,6 @@
 
 **Turn any website into an Android app — straight from your terminal ⚡**
 
-[![GitHub Stars](https://img.shields.io/github/stars/dwip-the-dev/web2apk?style=for-the-badge)](https://github.com/dwip-the-dev/web2apk/stargazers)
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue?style=for-the-badge)]()
 [![License](https://img.shields.io/github/license/dwip-the-dev/web2apk?style=for-the-badge)]()
 
