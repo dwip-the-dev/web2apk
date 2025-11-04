@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "web2apk"
+version = "1.0.0"
+description = "CLI tool to convert websites to Android APK files"
+authors = [
+    {name = "Dwip Biswas", email = "dwipbiswas290@gmail.com"}
+]
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.7"
+dependencies = [
+    "click>=8.0.0",
+    "requests>=2.25.0",
+    "python-slugify>=5.0.0",
+]
+
+[project.scripts]
+web2apk = "web2apk.cli:cli"
